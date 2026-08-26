@@ -10,6 +10,7 @@ test-results/
 *.local
 *.log
 *.zip
+docs/
 
 # Local audit/source artifacts
 audit/
@@ -17,14 +18,3 @@ tmp/
 source/
 500
 /logo.png
-
-# PDF transcription and historical scratch docs
-docs/PDF_TRANSCRIPTION_TEST.md
-docs/CLEAN_PDF_TRANSCRIPTION_TEST.md
-docs/PHASE1_CONTENT_GUARD.md
-docs/PHASE2_FOUNDATION_FIXES.md
-docs/PHASE2_READING_UI.md
-docs/FIREBASE_MIGRATION_PLAN.md
-docs/PHASE_A_FIREBASE_FOUNDATION.md
-docs/PHASE_B_ADMIN_EDITOR.md
-docs/TECHNICAL_PLAN.md
