@@ -1,0 +1,28 @@
+.arabic-text {
+  color: var(--color-text);
+  direction: rtl;
+  font-family: var(--reading-arabic-font-family, var(--font-arabic));
+  font-size: var(--reading-arabic-size, 32px);
+  font-weight: 400;
+  line-height: 2.25;
+  margin: 0;
+  overflow-wrap: break-word;
+  text-align: right;
+  unicode-bidi: plaintext;
+  white-space: normal;
+  word-break: normal;
+}
+
+.latin-text,
+.translation-text {
+  color: var(--color-muted);
+  font-size: var(--reading-latin-size, 16px);
+  line-height: 1.7;
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.translation-text {
+  color: #39433d;
+  font-size: var(--reading-translation-size, 16px);
+}

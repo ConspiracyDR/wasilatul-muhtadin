@@ -1,0 +1,30 @@
+{
+  "id": "example-reading",
+  "slug": "example-reading",
+  "title": "Example Reading",
+  "category": "ratib",
+  "version": 1,
+  "source_note": "Development fixture only. Not religious content.",
+  "sections": [
+    {
+      "id": "section-001",
+      "title": "Display Fixture",
+      "arabic": "[ARABIC APPROVED SOURCE WILL BE INSERTED HERE]",
+      "latin": "[LATIN APPROVED SOURCE WILL BE INSERTED HERE]",
+      "translation": "[TRANSLATION APPROVED SOURCE WILL BE INSERTED HERE]",
+      "repeat": [3],
+      "note": "Development fixture only. Replace with approved source before production content release.",
+      "review_status": "needs_review"
+    },
+    {
+      "id": "section-002",
+      "title": null,
+      "arabic": "[SECOND APPROVED SOURCE BLOCK WILL BE INSERTED HERE]",
+      "latin": null,
+      "translation": "[OPTIONAL APPROVED TRANSLATION WILL BE INSERTED HERE]",
+      "repeat": null,
+      "note": null,
+      "review_status": "needs_review"
+    }
+  ]
+}
